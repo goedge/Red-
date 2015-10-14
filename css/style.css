@@ -1,0 +1,28 @@
+body {
+	width: 1000px;
+	margin: 0 auto; /* http://davidwalsh.name/center-website */
+}
+
+header {
+	background: url('../img/coffee-beans.jpg') no-repeat;
+	height: 343px;
+	text-align: center;
+}
+
+header p {
+	margin: 0;
+	padding-top: 10px;
+	color: #ffffff;
+	font-size: 20px;
+}
+
+section.body h1 {
+	color: #000;
+}
+
+section.body img.content {
+	float: right;
+	margin: 10px;	
+	width: 400px;
+	height: 300px;
+}
